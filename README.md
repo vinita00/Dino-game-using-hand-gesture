@@ -1,4 +1,4 @@
-## Hand Gesture Controlled Space Key Press
+## Dino Game Using Hnad Gestures
 
 This Python script utilizes OpenCV and cvzone libraries to detect hand gestures and control the pressing of the space key on the keyboard based on the detected gestures. The script is designed to detect a specific hand gesture (all fingers down) to simulate pressing the space key, typically used for actions like jumping in applications or games.
 
