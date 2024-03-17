@@ -1,4 +1,4 @@
-README for Hand Gesture Recognition Code:
+Hand Gesture Recognition Code:
 Hand Gesture Recognition using OpenCV and cvzone
 
 This Python code demonstrates hand gesture recognition using OpenCV and the cvzone library. It tracks the user's hand using a webcam and detects the number of fingers raised. Depending on the finger count, it simulates a keyboard press (specifically the space key) to perform an action, such as jumping in a game.
